@@ -1,6 +1,6 @@
 # video_clips_app
 
-A new Flutter application.
+A Flutter application to show the demo of the minimal login/signup form.
 
 ## Getting Started
 
